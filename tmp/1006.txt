@@ -1,0 +1,18 @@
+show pon unprovisiononu 
+================================================================================
+unprovisiononu table
+================================================================================
+ actual 
+alarmidxgponindex sernum subscriberlocidlogicalauthidusrate
+
+ 51 1/1/1/16 ALCLFC339DC9 DEFAULT 1.25g 
+52 1/1/1/16 ALCLFBFA9A2A DEFAULT 1.25g 
+53 1/1/1/16 ALCLFC338BF4 DEFAULT 1.25g 
+
+unprovisiononu count : 3
+================================================================================
+typ:isadmin# 
+
+70/01/01 01:07:27 minor alarm occurred for pon 1/1/1/16 : SERNUM =ALCLFC3381C4 SLID =DEFAULT LOID = USRATE =1.25g 
+
+typ:isadmin#

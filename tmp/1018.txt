@@ -1,0 +1,28 @@
+enable 
+
+MA5800 X7#display ont autofind all 
+{ || } 
+
+ Command
+ display ont autofind all
+ 
+ Number 1 F/S/P 0/1/15 Ont SN 414C434CFBFB2460 ALCL FBFB2460
+ Password 0x44454641554C54000000DEFAULT
+ Loid 
+ Checkcode 
+ VendorID ALCL
+ Ont Version 3FE77771ADAA01
+ Ont SoftwareVersion 3FE49568HJIJ86
+ Ont EquipmentID NOCLEICODEG1425GA
+ Ont Customized Info 
+ Ont MAC 
+ Ont Equipment SN 
+ Ont autofind time 2021 11 02 015754+0800
+ Multi channel 
+ 
+ Number 2 F/S/P 0/1/15 Ont SN 47504F4E00C59230 GPON 00C59230
+ Password 0x313233343536373839301234567890
+ Loid 
+ Checkcode 
+ More Press 'Q' to break [37D [37D VendorID MONU
+ More Press 'Q' to break

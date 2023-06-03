@@ -1,0 +1,20 @@
+show pon unprovisiononu 
+================================================================================
+unprovisiononu table
+================================================================================
+alarmidx gponindexsernum subscriberlocid logicalauthid 
+
+ 12 1/1/1/15 ALCLB36CBBBF DEFAULT 
+ 14 1/1/1/15 ALCLFBD2444E DEFAULT 
+
+unprovisiononu count : 2
+================================================================================
+typ:isadmin# 
+
+70/03/20 20:37:02 major alarm occurred for ipaddr 10.20.1.1 : Successful Management login TimeStamp : 20/03/70 20:36:50 Username : isadmin Type : CLI
+
+typ:isadmin# 
+
+70/03/20 20:37:02 minor alarm occurred for pon 1/1/1/15 : SERNUM =ALCLB36CBBBF SLID =DEFAULT LOID =
+
+typ:isadmin#

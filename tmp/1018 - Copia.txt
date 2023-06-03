@@ -1,0 +1,29 @@
+enable 
+
+MA5800-X7#display ont autofind all 
+{ <cr>||<K> }: 
+
+  Command:
+          display ont autofind all
+   ----------------------------------------------------------------------------
+   Number              : 1
+   F/S/P               : 0/1/0
+   Ont SN              : 414C434CFC03D2CB (ALCL-FC03D2CB)
+   Password            : 0x44454641554C54000000(DEFAULT)
+   Loid                : 
+   Checkcode           : 
+   VendorID            : ALCL
+   Ont Version         : 3FE77771ADAA01
+   Ont SoftwareVersion : 3FE49568HJIJ86
+   Ont EquipmentID     : NOCLEICODEG1425GA
+   Ont Customized Info : -
+   Ont MAC             : -
+   Ont Equipment SN    : -
+   Ont autofind time   : 2021-10-31 11:42:08+08:00
+   Multi channel       : -
+   ----------------------------------------------------------------------------
+   The number of GPON autofind ONT is 1
+
+MA5800-X7#
+
+MA5800-X7#

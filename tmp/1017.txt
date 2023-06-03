@@ -1,0 +1,12 @@
+show pon unprovisiononu 
+================================================================================
+unprovisiononu table
+================================================================================
+ actual 
+alarmidx gponindexsernum subscriberlocid logicalauthid usrate
+
+22 1/1/1/11 ALCLFBE43825 DEFAULT 1.25g 
+
+unprovisiononu count : 1
+================================================================================
+typ:isadmin#

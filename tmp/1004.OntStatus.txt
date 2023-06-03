@@ -1,0 +1,139 @@
+show equipment ont status pon 1/1/1/5 
+=========================================================================================================
+pon table
+=========================================================================================================
+ | | |admin |oper |olt-rx-sig |ont-olt | | | 
+pon |ont |sernum |status |status |level(dbm) |distance(km) |desc1|desc2|hostname 
+----------+--------------+-------------+--------+--------+-----------+-------------+-----+-----+---------
+1/1/1/5 1/1/1/5/1 ALCL:B36838CA up up -23 4 0 7 marl* marl* undefined
+1/1/1/5 1/1/1/5/2 ALCL:F84DA42C up down invalid invalid cris* Giov* undefined
+1/1/1/5 1/1/1/5/3 ALCL:F84DAB0F up up -23 6 0 5 mang* Caio* undefined
+1/1/1/5 1/1/1/5/4 ALCL:B3A37FF4 up up -22 8 1 4 isau* Lean* undefined
+1/1/1/5 1/1/1/5/5 ALCL:B360E46D up up -23 3 0 5 ipau* Edua* undefined
+1/1/1/5 1/1/1/5/6 ALCL:B3547865 up up -24 4 1 3 isau* Wili* undefined
+1/1/1/5 1/1/1/5/7 ALCL:B369F921 up up -21 1 0 7 brig* Leon* undefined
+1/1/1/5 1/1/1/5/8 ALCL:FBF26868 up up -22 1 0 7 marl* Amar* undefined
+1/1/1/5 1/1/1/5/9 ALCL:B3516118 up up -28 2 0 6 fael Rafa* undefined
+1/1/1/5 1/1/1/5/10 ALCL:F8744021 up up -20 5 0 6 ilha* ILHA* undefined
+1/1/1/5 1/1/1/5/12 ALCL:F8488285 up up -21 2 0 7 Port* Will* undefined
+1/1/1/5 1/1/1/5/13 ALCL:F8599769 up up -22 3 0 8 lene Elen* undefined
+1/1/1/5 1/1/1/5/15 ALCL:FBE8FFEA up up -26 1 0 8 port* port* undefined
+1/1/1/5 1/1/1/5/16 ALCL:F8599762 up up -26 3 0 8 estr* Well* undefined
+1/1/1/5 1/1/1/5/17 ALCL:B2F0BB28 up up -23 2 0 4 marc* Norm* undefined
+1/1/1/5 1/1/1/5/18 ALCL:B3A31F12 up up -22 2 0 4 rapa* Raph* undefined
+1/1/1/5 1/1/1/5/20 HWTC:CE04D89E up up -24 9 0 7 gene* Rich* undefined
+1/1/1/5 1/1/1/5/21 ALCL:FBDDEA26 up up -22 7 1 3 isau* Bian* undefined
+1/1/1/5 1/1/1/5/22 ALCL:F83C45C4 up up -25 3 0 9 enge* Elen* undefined
+1/1/1/5 1/1/1/5/23 ALCL:F86C16F6 up up -21 9 0 8 sobr* Inar* undefined
+1/1/1/5 1/1/1/5/24 ALCL:B2EA13EF up up -21 6 0 8 tibu* Sand* undefined
+1/1/1/5 1/1/1/5/25 ALCL:B36EEDBC up up -23 0 1 0 prud* Luci* undefined
+1/1/1/5 1/1/1/5/26 ALCL:F84A00B5 up up -24 6 0 8 enge* Hele* undefined
+1/1/1/5 1/1/1/5/27 ALCL:B2F0E016 up up -21 3 0 7 marl* undefined
+1/1/1/5 1/1/1/5/28 ALCL:F8651313 up up -21 0 0 7 mour* Fran* undefined
+1/1/1/5 1/1/1/5/29 ALCL:FBDED334 up up -30 9 0 7 prud* prud* undefined
+1/1/1/5 1/1/1/5/30 ALCL:B35FFB52 up down invalid invalid idau* Jand* undefined
+1/1/1/5 1/1/1/5/31 ALCL:B36C930D up up -26 5 1 4 isau* Antn* undefined
+1/1/1/5 1/1/1/5/32 ALCL:F84D956D up up -28 5 1 1 Enge* Enge* undefined
+1/1/1/5 1/1/1/5/33 ALCL:FBD69C47 up up -25 3 1 0 brig* Tati* undefined
+1/1/1/5 1/1/1/5/34 ALCL:B365E27D up up -22 9 0 8 prat* Yago* undefined
+1/1/1/5 1/1/1/5/35 ALCL:B2EA3E3E up down invalid invalid prat* Mari* undefined
+1/1/1/5 1/1/1/5/36 ALCL:B36CA1DD up up -23 3 0 4 port* Joel* undefined
+1/1/1/5 1/1/1/5/37 ALCL:FBD33653 up down -21 9 0 4 mang* Feli* undefined
+1/1/1/5 1/1/1/5/38 HWTC:F08DA09E up up -23 7 0 7 ipau* Alva* undefined
+1/1/1/5 1/1/1/5/39 ALCL:B3A41FFD up up -23 4 0 7 arap* Ader* undefined
+1/1/1/5 1/1/1/5/40 ALCL:FBDBB0F8 up down invalid invalid marl* Ygor* undefined
+1/1/1/5 1/1/1/5/41 ALCL:F87B8224 up down invalid invalid Rays* estr* undefined
+1/1/1/5 1/1/1/5/42 ALCL:FBD62CBA up up -22 1 0 8 enge* Leon* undefined
+1/1/1/5 1/1/1/5/43 ALCL:FBD8583A up up -21 4 0 4 mang* Ldia* undefined
+1/1/1/5 1/1/1/5/44 ALCL:B36FC094 up up -23 9 0 7 port* Pame* undefined
+1/1/1/5 1/1/1/5/45 ALCL:FBDB6F13 up up -23 8 0 4 mang* Patr* undefined
+1/1/1/5 1/1/1/5/46 ALCL:FBCF5B68 up down invalid invalid port* Soni* undefined
+1/1/1/5 1/1/1/5/47 ALCL:B3A4A23E up up -23 5 0 7 prud* Jorg* undefined
+1/1/1/5 1/1/1/5/48 ALCL:B3A4F8E2 up up -21 6 0 7 prud* Rena* undefined
+1/1/1/5 1/1/1/5/49 ALCL:FBF0725A up up -22 3 0 8 gene* Gize* undefined
+1/1/1/5 1/1/1/5/50 ALCL:B36FD3C2 up up -23 8 0 4 mang* Serg* undefined
+1/1/1/5 1/1/1/5/51 HWTC:B9307B9E up up -24 2 0 7 Moni* gene* undefined
+1/1/1/5 1/1/1/5/52 ALCL:B36BE184 up up -23 6 0 8 caioo Elai* undefined
+1/1/1/5 1/1/1/5/53 ALCL:F83BD179 up up -22 3 1 2 ilha isau* undefined
+1/1/1/5 1/1/1/5/54 ALCL:FBCB64FC up up -22 2 0 7 port* Mari* undefined
+1/1/1/5 1/1/1/5/55 ALCL:B3A3A295 up up -27 4 0 4 port* Rodr* undefined
+1/1/1/5 1/1/1/5/57 ALCL:F8713C69 up up -23 3 0 8 enge* Flav* undefined
+1/1/1/5 1/1/1/5/58 ALCL:B36868D3 up up -24 4 0 7 undefined
+1/1/1/5 1/1/1/5/59 ALCL:B30EB3F8 up down invalid invalid Weli* undefined
+1/1/1/5 1/1/1/5/60 ALCL:FBCB2C7D up up -23 0 0 7 andr* Andr* undefined
+1/1/1/5 1/1/1/5/62 ALCL:FBD292BC up down -26 1 0 7 marl* Jona* undefined
+1/1/1/5 1/1/1/5/63 ALCL:FBD2D3CF up down invalid invalid prud* Sara* undefined
+1/1/1/5 1/1/1/5/64 ALCL:FBD2DB83 up down invalid invalid prud* Brba* undefined
+1/1/1/5 1/1/1/5/65 ALCL:FBD2D891 up down invalid invalid prud* Lean* undefined
+1/1/1/5 1/1/1/5/66 ALCL:FBD2D73F up down -26 9 1 1 prud* Clud* undefined
+1/1/1/5 1/1/1/5/67 ALCL:FBDFBC7E up up -21 4 0 7 vivi* Vivi* undefined
+1/1/1/5 1/1/1/5/68 ALCL:FBCE9A61 up up -25 5 1 0 aris* Alex* undefined
+1/1/1/5 1/1/1/5/70 ALCL:F85BC512 up up -21 9 0 7 dani* Dani* undefined
+1/1/1/5 1/1/1/5/71 ALCL:F87B7D46 up down invalid invalid prud* Adri* undefined
+1/1/1/5 1/1/1/5/72 ALCL:FBCAFD85 up down -26 9 0 9 prud* Raph* undefined
+1/1/1/5 1/1/1/5/73 ALCL:FBD244C0 up up -22 3 1 0 prud* Jorg* undefined
+1/1/1/5 1/1/1/5/74 ALCL:B30EB458 up up -23 9 1 3 isau* Jaci* undefined
+1/1/1/5 1/1/1/5/76 ALCL:F84D9790 up down invalid invalid enge* Telm* undefined
+1/1/1/5 1/1/1/5/77 ALCL:F87450E7 up down invalid invalid muri* Mari* undefined
+1/1/1/5 1/1/1/5/78 ALCL:F87716DD up down invalid invalid marl* Yasm* undefined
+1/1/1/5 1/1/1/5/79 ALCL:F8599550 up up -26 3 1 3 tvid* Math* undefined
+1/1/1/5 1/1/1/5/81 HWTC:26543F9F up up -22 8 0 4 mang* Thay* undefined
+1/1/1/5 1/1/1/5/82 ALCL:F8770F29 up down invalid invalid mour* Flav* undefined
+1/1/1/5 1/1/1/5/83 ALCL:FBD975F0 up up -21 8 0 9 Brig* Lour* undefined
+1/1/1/5 1/1/1/5/84 ALCL:FBD79265 up up -23 8 1 1 enge* Telm* undefined
+1/1/1/5 1/1/1/5/85 ALCL:FBD6BFC4 up up -27 9 0 7 prud* Thar* undefined
+1/1/1/5 1/1/1/5/86 ALCL:FBE39BB6 up down invalid invalid port* Rubi* undefined
+1/1/1/5 1/1/1/5/88 ALCL:B35FFB53 up up -23 1 1 3 Isau* Luci* undefined
+1/1/1/5 1/1/1/5/89 ALCL:FBD8908B up up -23 3 0 7 guar* Lean* undefined
+1/1/1/5 1/1/1/5/90 ALCL:FBD95B1A up down invalid invalid isau* Agat* undefined
+1/1/1/5 1/1/1/5/91 ALCL:FBD2E1B6 up up -23 7 1 3 trav* Vitr* undefined
+1/1/1/5 1/1/1/5/92 ALCL:F84DB810 up up -23 7 1 3 Fern* undefined
+1/1/1/5 1/1/1/5/93 ALCL:FBE419EA up up -23 1 0 9 prud* Rafa* undefined
+1/1/1/5 1/1/1/5/94 ALCL:B36C8715 up up -22 7 0 8 prat* Simo* undefined
+1/1/1/5 1/1/1/5/95 ALCL:FBE90D1D up up -23 7 1 4 isau* Ycar* undefined
+1/1/1/5 1/1/1/5/96 ALCL:FBDE7D39 up up -24 2 1 2 isau* Mari* undefined
+1/1/1/5 1/1/1/5/97 ALCL:FBDE7CCC up up -25 0 0 6 prat* Feli* undefined
+1/1/1/5 1/1/1/5/98 ALCL:FBCBB83D up up -23 2 0 8 Ladi* guar* undefined
+1/1/1/5 1/1/1/5/99 ALCL:B3A36F77 up up -21 9 0 7 marl* undefined
+1/1/1/5 1/1/1/5/100 ALCL:F84FFF29 up up -21 4 1 1 Prud* Ana_* undefined
+1/1/1/5 1/1/1/5/101 ALCL:FBD290F9 up up -22 1 0 7 sobr* Isaa* undefined
+1/1/1/5 1/1/1/5/102 ALCL:FBF07418 up up -22 8 1 4 isau* Mari* undefined
+1/1/1/5 1/1/1/5/103 HWTC:CE309A9E up up -31 5 0 4 juli* Jess* undefined
+1/1/1/5 1/1/1/5/104 ALCL:F84DA720 up down invalid invalid brig* Dani* undefined
+1/1/1/5 1/1/1/5/105 ALCL:F85EC76F up up -23 4 0 9 prud* Aria* undefined
+1/1/1/5 1/1/1/5/106 ALCL:B2F0CD52 up up -20 7 0 7 Carl* undefined
+1/1/1/5 1/1/1/5/107 ALCL:B36D399A up up -22 7 1 1 aris* aris* undefined
+1/1/1/5 1/1/1/5/108 ALCL:B3A31532 up up -22 9 0 7 sobr* sobr* undefined
+1/1/1/5 1/1/1/5/109 ALCL:B3610B75 up up -21 2 0 6 estr* Cint* undefined
+1/1/1/5 1/1/1/5/110 ALCL:B36CA277 up up -23 1 1 0 brig* brig* undefined
+1/1/1/5 1/1/1/5/111 ALCL:F8770E95 up up -22 1 0 3 mang* mang* undefined
+1/1/1/5 1/1/1/5/128 ALCL:B36A3748 up down invalid invalid brig* Robe* undefined
+---------------------------------------------------------------------------------------------------------
+pon count : 103
+=========================================================================================================
+typ:isadmin># 
+
+21/12/18 11:41:38 major alarm occurred for ip-addr 170 245 79 194 : Successful Management login, TimeStamp : 18/12/21 11:41:26 , Username : isadmin , Type : CLI
+
+typ:isadmin># 
+
+21/12/18 11:41:38 major alarm cleared for ont 1/1/3/15/14 (service affecting) : Signal Degraded from ONT
+
+typ:isadmin># 
+
+21/12/18 11:41:51 major alarm occurred for ont 1/1/3/9/31 (service affecting) : Remote Defect Indication from ONT
+
+typ:isadmin># 
+
+21/12/18 11:41:51 major alarm occurred for ont 1/1/3/5/82 (service affecting) : Signal Degraded from ONT
+21/12/18 11:41:51 major alarm occurred for ont 1/1/3/15/14 (service affecting) : Signal Degraded from ONT
+21/12/18 11:41:51 major alarm occurred for ont 1/1/4/6/12 (service affecting) : Received optical signal too low
+21/12/18 11:41:51 event occurred for ont 1/1/2/5/54 : The Rx Power at ONU side is lower than warning threshold
+
+typ:isadmin># 
+
+21/12/18 11:41:51 major alarm cleared for ont 1/1/3/5/82 (service affecting) : Remote Defect Indication from ONT
+21/12/18 11:41:51 major alarm cleared for ont 1/1/1/2/57 (service affecting) : Received optical signal too low
+21/12/18 11:41:51 major alarm cleared for ont 1/1/2/5/54 (service affecting) : Received optical signal too low
+
+typ:isadmin>#

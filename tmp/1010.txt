@@ -1,0 +1,15 @@
+show pon unprovisiononu 
+================================================================================
+unprovisiononu table
+================================================================================
+alarmidx gponindexsernum subscriberlocid logicalauthid 
+
+109 1/1/1/7 ALCLB2EA3250 DEFAULT 
+ 
+unprovisiononu count : 1
+================================================================================
+typ:isadmin# 
+
+70/05/29 23:35:47 major alarm occurred for ont 1/1/1/7/23 (service affecting) : Received optical signal too low
+
+typ:isadmin#

@@ -1,0 +1,98 @@
+show equipment ont status pon 1/1/1/2 
+=========================================================================================================
+pon table
+=========================================================================================================
+ | | |admin |oper |olt-rx-sig |ont-olt | | | 
+pon |ont |sernum |status |status |level(dbm) |distance(km) |desc1|desc2|hostname 
+----------+--------------+-------------+--------+--------+-----------+-------------+-----+-----+---------
+1/1/1/2 1/1/1/2/1 ALCL:FBDBD96C up up -22 5 3 5 ESTR* ESTR* undefined
+1/1/1/2 1/1/1/2/2 ALCL:FBE97A26 up up -24 5 3 9 RUAM* undefined
+1/1/1/2 1/1/1/2/3 ALCL:FBDD433E up up -22 3 3 8 RUAM* undefined
+1/1/1/2 1/1/1/2/4 ALCL:B3616D1A up up -23 2 3 7 RUAD* undefined
+1/1/1/2 1/1/1/2/5 ALCL:B36D4507 up up -22 7 3 7 RUAW* undefined
+1/1/1/2 1/1/1/2/6 ALCL:FBF2CF73 up up -24 8 3 7 RUAM* undefined
+1/1/1/2 1/1/1/2/7 ALCL:B21162E8 up up -23 7 3 8 RUAN* undefined
+1/1/1/2 1/1/1/2/8 ALCL:FBE45F1D up up -22 1 3 9 RUAM* undefined
+1/1/1/2 1/1/1/2/9 ALCL:B3A90374 up up -24 9 3 5 ESTR* undefined
+1/1/1/2 1/1/1/2/10 ALCL:FBDF5410 up up -24 3 3 6 RUAM* undefined
+1/1/1/2 1/1/1/2/11 ALCL:FBDBC6EE up up -26 7 3 8 RUAM* RUAM* undefined
+1/1/1/2 1/1/1/2/12 ALCL:FBE9C9BD up down invalid invalid RUAM* undefined
+1/1/1/2 1/1/1/2/13 ALCL:B36FC20F up up -22 4 4 0 RUAJ* undefined
+1/1/1/2 1/1/1/2/14 ALCL:FBD697E3 up up -22 9 3 8 RUAN* undefined
+1/1/1/2 1/1/1/2/15 ALCL:FBE3F56E up up -24 8 3 7 RUAW* RUAW* undefined
+1/1/1/2 1/1/1/2/16 ALCL:FBD70DFA up up -30 8 3 8 RUAW* undefined
+1/1/1/2 1/1/1/2/17 ALCL:FBDB6D8A up down invalid invalid RUAD* undefined
+1/1/1/2 1/1/1/2/18 ALCL:F8743E84 up up -23 2 3 5 RUAD* undefined
+1/1/1/2 1/1/1/2/19 ALCL:F87A55A6 up up -22 1 3 5 MARI* MARI* undefined
+1/1/1/2 1/1/1/2/20 ALCL:FBDDE533 up up -26 4 3 6 RUAD* undefined
+1/1/1/2 1/1/1/2/21 ALCL:FBDFB4B8 up up -24 9 3 8 RUAW* RUAW* undefined
+1/1/1/2 1/1/1/2/22 ALCL:B36CF045 up up -24 5 3 6 RUAM* undefined
+1/1/1/2 1/1/1/2/23 ALCL:B20FDE20 up down invalid invalid RUAM* undefined
+1/1/1/2 1/1/1/2/24 ALCL:FBE413D9 up up -23 4 3 9 RUAM* undefined
+1/1/1/2 1/1/1/2/25 ALCL:FBD63F56 up up -22 8 3 6 RUAM* undefined
+1/1/1/2 1/1/1/2/26 ALCL:B36000FF up up -24 3 3 5 ESTR* undefined
+1/1/1/2 1/1/1/2/27 ALCL:B36C1928 up up -25 7 3 4 GROTA undefined
+1/1/1/2 1/1/1/2/28 ALCL:B3660133 up up -22 5 3 6 RUAW* undefined
+1/1/1/2 1/1/1/2/29 ALCL:B361010F up up -25 5 3 5 RUAW* undefined
+1/1/1/2 1/1/1/2/30 ALCL:B36EDA55 up down invalid invalid RUAM* undefined
+1/1/1/2 1/1/1/2/31 ALCL:FBDFF050 up up -27 6 3 6 RUAW* undefined
+1/1/1/2 1/1/1/2/32 ALCL:FBDC0522 up up -23 3 3 8 RUAM* undefined
+1/1/1/2 1/1/1/2/33 ALCL:FBE42FC3 up up -26 4 3 6 RUAM* undefined
+1/1/1/2 1/1/1/2/34 ZTEG:CF238AA2 up up -22 5 3 6 RUAW* undefined
+1/1/1/2 1/1/1/2/35 ALCL:B2EA1538 up up -23 6 3 4 RUAD* undefined
+1/1/1/2 1/1/1/2/36 ALCL:B2E95B31 up up -23 3 3 4 RUAD* undefined
+1/1/1/2 1/1/1/2/37 ALCL:FBEAB7FA up down invalid invalid RUAW* undefined
+1/1/1/2 1/1/1/2/38 ALCL:FBD8D571 up up -25 3 3 7 RUAW* undefined
+1/1/1/2 1/1/1/2/39 ALCL:FBCF4926 up up -23 7 3 7 RUAW* RUAW* undefined
+1/1/1/2 1/1/1/2/40 ALCL:FBD30185 up up -23 2 3 7 RUAW* undefined
+1/1/1/2 1/1/1/2/41 ALCL:FBE3A177 up up -25 5 3 9 RUAW* undefined
+1/1/1/2 1/1/1/2/42 HWTC:C4480241 up up -26 7 3 5 RUA_* undefined
+1/1/1/2 1/1/1/2/43 ALCL:FC1818FC up up -24 9 3 7 RUAN* undefined
+1/1/1/2 1/1/1/2/44 ALCL:F865126E up up -32 9 3 8 RUAW* undefined
+1/1/1/2 1/1/1/2/45 ALCL:FBDCC85C up up -30 4 3 7 RUA_* undefined
+1/1/1/2 1/1/1/2/46 ALCL:B36669BF up up -22 3 3 6 RUAD* undefined
+1/1/1/2 1/1/1/2/47 ALCL:B36EF1C7 up down invalid invalid RUAD* undefined
+1/1/1/2 1/1/1/2/48 ALCL:FBDDEE67 up up -23 0 3 8 RUAM* RUAM* undefined
+1/1/1/2 1/1/1/2/49 ALCL:FBDCDF82 up up -24 1 3 5 RUAD* undefined
+1/1/1/2 1/1/1/2/50 ALCL:FBD998F5 up up -24 3 3 6 RUAM* undefined
+1/1/1/2 1/1/1/2/51 ALCL:FBCE917A up up -31 5 3 6 RUAM* undefined
+1/1/1/2 1/1/1/2/52 ALCL:FBDFB5A1 up up -23 0 3 7 RUAM* undefined
+1/1/1/2 1/1/1/2/53 ALCL:B36ED5F9 up up -24 2 3 5 RUAR* undefined
+1/1/1/2 1/1/1/2/54 ALCL:FBDCDFD4 up up -24 0 3 7 RUAD* undefined
+1/1/1/2 1/1/1/2/55 ALCL:FBD9A4EE up up -23 9 3 8 RUAW* undefined
+1/1/1/2 1/1/1/2/56 ALCL:F84DA288 up down invalid invalid RUAD* undefined
+1/1/1/2 1/1/1/2/57 ALCL:B309CE20 up up -22 6 3 7 RUAH* undefined
+1/1/1/2 1/1/1/2/58 ALCL:FBDDADD3 up up -22 3 3 7 RUAD* undefined
+1/1/1/2 1/1/1/2/59 ALCL:FBDDFF5B up down invalid invalid RUAD* undefined
+1/1/1/2 1/1/1/2/60 ALCL:FBEA58F4 up up -31 5 3 8 ALEX* undefined
+1/1/1/2 1/1/1/2/61 ALCL:FBDE11FE up up -21 9 3 6 RAFA* undefined
+1/1/1/2 1/1/1/2/62 ALCL:B367030E up up -23 7 3 5 RUAM* undefined
+1/1/1/2 1/1/1/2/63 ALCL:FBEA3EFB up up -22 6 3 6 RUAM* undefined
+1/1/1/2 1/1/1/2/64 ALCL:FBD921BE up up -28 5 3 5 RUAR* RUAR* undefined
+1/1/1/2 1/1/1/2/65 ALCL:FBE954FE up up -22 6 3 7 Rua_* undefined
+1/1/1/2 1/1/1/2/66 ALCL:FBDB4689 up down invalid invalid RUAM* RUAM* undefined
+1/1/1/2 1/1/1/2/67 ALCL:FBDD6F15 up up -26 7 3 9 RUA_* undefined
+1/1/1/2 1/1/1/2/68 ALCL:FBD98AA3 up up -24 9 3 7 RUAM* undefined
+1/1/1/2 1/1/1/2/69 ALCL:F85487F1 up up -23 5 3 6 RUAW* undefined
+1/1/1/2 1/1/1/2/70 ZTEG:C44002F4 up up -28 9 3 7 RUAD* undefined
+1/1/1/2 1/1/1/2/71 ALCL:FBF9E384 up up -22 1 3 5 RUAW* undefined
+1/1/1/2 1/1/1/2/72 ZTEG:CAC58486 up up -22 9 3 6 RUAW* undefined
+1/1/1/2 1/1/1/2/73 ALCL:FBD9333C up up -22 0 3 7 RUAG* undefined
+1/1/1/2 1/1/1/2/74 ALCL:FBDCD700 up up -25 8 3 9 RUAM* undefined
+1/1/1/2 1/1/1/2/75 ALCL:FBF6C9AE up up -21 5 3 8 ILHA* undefined
+1/1/1/2 1/1/1/2/76 ALCL:FBDFE0BD up up -24 9 3 5 ILHA* undefined
+1/1/1/2 1/1/1/2/77 ITBS:8BAB3BC5 up up -28 5 3 6 RUAW* undefined
+1/1/1/2 1/1/1/2/78 ALCL:FBF22BCE up up -27 3 3 7 RUAD* undefined
+1/1/1/2 1/1/1/2/79 ALCL:FBD2D9ED up up -21 9 3 9 RUAW* undefined
+1/1/1/2 1/1/1/2/80 ALCL:B36413E8 up up -23 1 3 7 RUAR* undefined
+1/1/1/2 1/1/1/2/81 ALCL:B36C99E8 up up -25 3 3 5 RUAV* undefined
+1/1/1/2 1/1/1/2/82 ALCL:B3616EB4 up up -22 9 3 7 RUAN* undefined
+1/1/1/2 1/1/1/2/83 ALCL:FBCB9656 up up -22 7 3 6 RUAM* undefined
+---------------------------------------------------------------------------------------------------------
+pon count : 83
+=========================================================================================================
+typ:isadmin># 
+
+70/11/29 23:09:13 major alarm cleared for ip-addr 172 16 16 1 : Successful Management login, TimeStamp : 29/11/70 23:08:28 , Username : isadmin , Type : CLI
+
+typ:isadmin>#

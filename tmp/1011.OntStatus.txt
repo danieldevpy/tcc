@@ -1,0 +1,114 @@
+show equipment ont status pon 1/1/1/5 
+=========================================================================================================
+pon table
+=========================================================================================================
+ | | |admin |oper |olt-rx-sig |ont-olt | | | 
+pon |ont |sernum |status |status |level(dbm) |distance(km) |desc1|desc2|hostname 
+----------+--------------+-------------+--------+--------+-----------+-------------+-----+-----+---------
+1/1/1/5 1/1/1/5/1 ALCL:FBD315C1 up up -28 1 1 9 jand* _ undefined
+1/1/1/5 1/1/1/5/2 ALCL:F86E174B up down invalid invalid tati* _ undefined
+1/1/1/5 1/1/1/5/3 ALCL:FBD32F16 up up -24 3 1 7 rodr* _ undefined
+1/1/1/5 1/1/1/5/4 ALCL:B3A41EA5 up down invalid invalid dani* _ undefined
+1/1/1/5 1/1/1/5/5 ALCL:FBDBEE08 up up -27 3 1 5 Novo Movo undefined
+1/1/1/5 1/1/1/5/6 ALCL:FBDE151F up up -25 1 1 5 andr* _ undefined
+1/1/1/5 1/1/1/5/7 ALCL:F86E1EB3 up down invalid invalid novo novo undefined
+1/1/1/5 1/1/1/5/8 ALCL:F8651373 up down invalid invalid kari* _ undefined
+1/1/1/5 1/1/1/5/9 ALCL:FBD2EDE1 up up -32 5 2 0 sand* sand* undefined
+1/1/1/5 1/1/1/5/10 FHTT:000AD978 up down invalid invalid tati* _ undefined
+1/1/1/5 1/1/1/5/11 ALCL:F84D9C01 up down invalid invalid dene* _ undefined
+1/1/1/5 1/1/1/5/12 ALCL:F85D1C1D up up -32 0 1 7 novo _ undefined
+1/1/1/5 1/1/1/5/13 ALCL:F84DAE30 up down invalid invalid carl* _ undefined
+1/1/1/5 1/1/1/5/14 ALCL:F86C1051 up down invalid invalid marc* _ undefined
+1/1/1/5 1/1/1/5/15 ALCL:F853902C up up -26 2 1 9 tati* _ undefined
+1/1/1/5 1/1/1/5/16 ALCL:FBDEF886 up up -31 1 1 8 novo undefined
+1/1/1/5 1/1/1/5/17 ALCL:FBDDFFB5 up down invalid invalid novo _ undefined
+1/1/1/5 1/1/1/5/18 ALCL:F83C487D up up -24 0 1 8 novo _ undefined
+1/1/1/5 1/1/1/5/19 ALCL:F85D2364 up down invalid invalid care* undefined
+1/1/1/5 1/1/1/5/20 ITBS:E8C1AA1C up up -25 7 1 7 novo _ undefined
+1/1/1/5 1/1/1/5/21 ALCL:FBEA3117 up up -28 6 2 1 undefined
+1/1/1/5 1/1/1/5/22 ALCL:B3644581 up up -33 0 1 7 val * val * undefined
+1/1/1/5 1/1/1/5/23 ALCL:B36C009B up down invalid invalid undefined
+1/1/1/5 1/1/1/5/24 ALCL:FBD97C97 up up -25 3 1 7 undefined
+1/1/1/5 1/1/1/5/25 ALCL:FBD68848 up up -34 5 1 7 novo _ undefined
+1/1/1/5 1/1/1/5/26 ALCL:FBD97625 up up -26 9 1 9 coce* _ undefined
+1/1/1/5 1/1/1/5/27 ALCL:B2ED2240 up up -32 7 1 5 Desb* Desb* undefined
+1/1/1/5 1/1/1/5/28 ALCL:B3533CBC up up -28 3 1 9 cata* cata* undefined
+1/1/1/5 1/1/1/5/29 ALCL:FBDAF190 up up -27 7 1 9 rafa* rafa* undefined
+1/1/1/5 1/1/1/5/30 ALCL:B2E96A8A up up -27 8 1 8 mel * _ undefined
+1/1/1/5 1/1/1/5/31 ALCL:B3610437 up up -29 0 1 9 artu* _ undefined
+1/1/1/5 1/1/1/5/32 ALCL:B212BFC2 up up -28 5 1 5 undefined
+1/1/1/5 1/1/1/5/33 ALCL:FBEDD133 up up -26 9 4 5 undefined
+1/1/1/5 1/1/1/5/34 ALCL:FBCBAA43 up up -33 0 2 0 rafa* rafa* undefined
+1/1/1/5 1/1/1/5/35 ALCL:B2ED2741 up up -27 9 1 8 cabe* cabe* undefined
+1/1/1/5 1/1/1/5/36 ALCL:B2ED499C up up -28 7 1 9 dama* dama* undefined
+1/1/1/5 1/1/1/5/37 ALCL:B3670892 up up -30 8 1 9 fabi* fabi* undefined
+1/1/1/5 1/1/1/5/38 ALCL:B368AD57 up up -27 6 2 3 undefined
+1/1/1/5 1/1/1/5/39 ALCL:FBCF1F1B up up -22 8 1 7 Novo _ undefined
+1/1/1/5 1/1/1/5/40 ALCL:B36882A0 up down invalid invalid gati* _ undefined
+1/1/1/5 1/1/1/5/41 ALCL:B36CBEE4 up up -35 2 1 9 dale* _ undefined
+1/1/1/5 1/1/1/5/42 ALCL:FC07F9BC up up -30 2 2 2 undefined
+1/1/1/5 1/1/1/5/43 ALCL:B36226F7 up up -26 3 1 8 undefined
+1/1/1/5 1/1/1/5/44 ALCL:B364D586 up up -23 3 1 6 patr* patr* undefined
+1/1/1/5 1/1/1/5/45 ALCL:FBE4B4BA up up -27 0 2 3 undefined
+1/1/1/5 1/1/1/5/46 ALCL:B367EA27 up up -28 6 2 1 rafa* rafa* undefined
+1/1/1/5 1/1/1/5/47 ITBS:E8AF3B95 up up -33 7 1 7 dino* undefined
+1/1/1/5 1/1/1/5/48 ALCL:B365FA8B up up -27 2 1 8 undefined
+1/1/1/5 1/1/1/5/49 ALCL:B3A41202 up up -26 7 1 7 undefined
+1/1/1/5 1/1/1/5/50 ALCL:FBDBE00C up up -27 9 2 3 undefined
+1/1/1/5 1/1/1/5/51 ALCL:B36888AB up up -27 4 1 8 Leo undefined
+1/1/1/5 1/1/1/5/52 ITBS:324EDA45 up up -28 7 1 8 undefined
+1/1/1/5 1/1/1/5/53 ITBS:324EDA35 up up -28 3 1 8 undefined
+1/1/1/5 1/1/1/5/54 ITBS:324ED685 up up -28 3 1 9 undefined
+1/1/1/5 1/1/1/5/55 ALCL:B35F4B56 up up -26 8 2 2 undefined
+1/1/1/5 1/1/1/5/56 ALCL:B367A217 up up -26 7 1 9 bete* _ undefined
+1/1/1/5 1/1/1/5/57 ITBS:E87A1AAC up down invalid invalid undefined
+1/1/1/5 1/1/1/5/58 ALCL:B35F03EC up up -27 5 2 0 marg* _ undefined
+1/1/1/5 1/1/1/5/59 ALCL:B362A1C0 up up -28 4 4 8 undefined
+1/1/1/5 1/1/1/5/60 ITBS:8BBDA5F7 up up -28 8 2 2 undefined
+1/1/1/5 1/1/1/5/61 ALCL:B36CB4DB up up -27 0 1 9 _ _ undefined
+1/1/1/5 1/1/1/5/62 ALCL:B2117050 up up -26 1 4 7 undefined
+1/1/1/5 1/1/1/5/63 ALCL:B366F5C1 up up -27 3 1 7 undefined
+1/1/1/5 1/1/1/5/64 ALCL:FBCB8A37 up up -25 8 1 8 undefined
+1/1/1/5 1/1/1/5/65 ALCL:B364E5C6 up up -26 2 1 9 undefined
+1/1/1/5 1/1/1/5/66 ALCL:B36F5A80 up up -28 4 1 9 undefined
+1/1/1/5 1/1/1/5/67 ALCL:FBD6CB31 up up -31 5 2 4 undefined
+1/1/1/5 1/1/1/5/68 ALCL:B36D403B up down invalid invalid undefined
+1/1/1/5 1/1/1/5/69 ITBS:E8C18D98 up up -26 8 4 4 undefined
+1/1/1/5 1/1/1/5/70 ITBS:0DFCE340 up up -26 3 1 7 undefined
+1/1/1/5 1/1/1/5/71 HWTC:267CC69F up up -29 0 2 4 undefined
+1/1/1/5 1/1/1/5/72 ALCL:FBE38572 up up -28 8 2 0 undefined
+1/1/1/5 1/1/1/5/73 ALCL:B212B44E up up -27 1 2 0 undefined
+1/1/1/5 1/1/1/5/74 HWTC:17F0019F up up -26 4 1 8 undefined
+1/1/1/5 1/1/1/5/75 ALCL:FBD6E7BC up down invalid invalid undefined
+1/1/1/5 1/1/1/5/76 ALCL:FBDECF5B up down invalid invalid undefined
+1/1/1/5 1/1/1/5/77 HWTC:CE302C9E up up -27 7 1 9 jona* undefined
+1/1/1/5 1/1/1/5/78 ALCL:B2114AEB up up -26 6 2 1 grac* _ undefined
+1/1/1/5 1/1/1/5/79 ALCL:FBEDB9D6 up up -27 6 2 5 ales* _ undefined
+1/1/1/5 1/1/1/5/80 ALCL:B3675A9A up down invalid invalid undefined
+1/1/1/5 1/1/1/5/81 ITBS:E8A736C5 up up -26 8 2 4 siti* _ undefined
+1/1/1/5 1/1/1/5/82 ALCL:FBDD7735 up up -26 8 1 7 undefined
+1/1/1/5 1/1/1/5/83 ITBS:E8C1A20C up up -27 5 1 9 undefined
+1/1/1/5 1/1/1/5/84 ALCL:FBD7507B up up -30 4 2 4 undefined
+1/1/1/5 1/1/1/5/85 ALCL:B36D4004 up up -29 5 2 3 undefined
+1/1/1/5 1/1/1/5/86 ALCL:F87A56E9 up up -28 4 1 7 undefined
+1/1/1/5 1/1/1/5/87 ALCL:B3603ABA up up -27 5 2 0 undefined
+1/1/1/5 1/1/1/5/88 ALCL:B36CC424 up up -27 3 1 8 undefined
+1/1/1/5 1/1/1/5/89 ALCL:B36A04AC up up -27 0 4 6 undefined
+1/1/1/5 1/1/1/5/90 ALCL:B3A8E921 up down invalid invalid undefined
+1/1/1/5 1/1/1/5/91 ALCL:B35F0AAE up up -28 7 2 5 undefined
+1/1/1/5 1/1/1/5/92 ITBS:E8C1A201 up up -28 7 2 3 undefined
+1/1/1/5 1/1/1/5/93 ALCL:FBF35868 up up -28 0 2 3 jefe* jefe* undefined
+1/1/1/5 1/1/1/5/94 ALCL:B3685CD5 up down invalid invalid undefined
+1/1/1/5 1/1/1/5/95 ALCL:B36C65DF up up -28 3 2 2 undefined
+1/1/1/5 1/1/1/5/96 ALCL:FBD5E153 up up -29 1 2 0 undefined
+1/1/1/5 1/1/1/5/97 ALCL:FC07BBB3 up up -30 9 2 0 undefined
+1/1/1/5 1/1/1/5/98 ALCL:FC17DA23 up up -26 6 1 8 undefined
+1/1/1/5 1/1/1/5/99 ALCL:FC184EF4 up up -26 7 1 8 undefined
+1/1/1/5 1/1/1/5/100 ALCL:FC17A9C4 up up -30 0 1 9 undefined
+1/1/1/5 1/1/1/5/126 ITBS:8BA1530C up up -26 6 2 1 DPO Ilha* undefined
+1/1/1/5 1/1/1/5/127 ITBS:E8C190C2 up up -25 2 1 7 Ulti* Ilha* undefined
+1/1/1/5 1/1/1/5/128 ITBS:0DE0610B up up -21 2 1 3 ilha ilha* undefined
+---------------------------------------------------------------------------------------------------------
+pon count : 103
+=========================================================================================================
+typ:isadmin>#

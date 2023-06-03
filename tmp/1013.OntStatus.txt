@@ -1,0 +1,104 @@
+show equipment ont status pon 1/1/1/1 
+=========================================================================================================
+pon table
+=========================================================================================================
+ | | |admin |oper |olt-rx-sig |ont-olt | | | 
+pon |ont |sernum |status |status |level(dbm) |distance(km) |desc1|desc2|hostname 
+----------+--------------+-------------+--------+--------+-----------+-------------+-----+-----+---------
+1/1/1/1 1/1/1/1/1 ITBS:E8AF3C29 up up -21 8 0 7 Cybe* ilha* undefined
+1/1/1/1 1/1/1/1/2 ALCL:B36CBB4C up up -26 0 0 7 doug* SANT* undefined
+1/1/1/1 1/1/1/1/3 ALCL:F84D97C8 up up -20 9 0 4 Novo Novo undefined
+1/1/1/1 1/1/1/1/4 ALCL:FBD69BBB up up -22 5 0 4 Novo Novo undefined
+1/1/1/1 1/1/1/1/5 ALCL:B3A36B3E up down invalid invalid fabi* FABI* undefined
+1/1/1/1 1/1/1/1/6 ALCL:B3A93276 up up -22 2 0 7 Novo Novo undefined
+1/1/1/1 1/1/1/1/7 ALCL:F874337C up up -21 7 0 4 alex* ALEX* undefined
+1/1/1/1 1/1/1/1/8 ALCL:F877001E up up -25 0 0 7 Novo Novo undefined
+1/1/1/1 1/1/1/1/9 ALCL:F84DBA39 up up -22 9 0 9 jose* VINI* undefined
+1/1/1/1 1/1/1/1/10 ALCL:B212BA0A up up -20 7 0 4 Novo Novo undefined
+1/1/1/1 1/1/1/1/11 ALCL:B3A3A112 up up -24 2 0 8 Novo Novo undefined
+1/1/1/1 1/1/1/1/12 ALCL:B36B8F27 up up -20 1 0 4 Novo Novo undefined
+1/1/1/1 1/1/1/1/13 ALCL:B36822B4 up up -26 0 0 9 Novo Novo undefined
+1/1/1/1 1/1/1/1/14 ALCL:F86C2238 up up -22 0 0 8 Novo Novo undefined
+1/1/1/1 1/1/1/1/15 ALCL:B2EA3CC8 up up -28 5 0 7 Novo Novo undefined
+1/1/1/1 1/1/1/1/16 ALCL:FBD964CE up up -21 5 0 7 Novo Novo undefined
+1/1/1/1 1/1/1/1/17 ALCL:FBD835F2 up up -21 8 0 8 Novo Novo undefined
+1/1/1/1 1/1/1/1/18 ALCL:F8745FB0 up up -25 5 0 8 Novo Novo undefined
+1/1/1/1 1/1/1/1/19 ALCL:B36EDD08 up up -22 9 1 0 Novo Novo undefined
+1/1/1/1 1/1/1/1/20 ALCL:F85738E3 up up -21 8 0 5 Novo Novo undefined
+1/1/1/1 1/1/1/1/21 ALCL:F8572D74 up up -24 6 0 9 Novo Novo undefined
+1/1/1/1 1/1/1/1/22 ALCL:B2FF98E3 up up -26 0 0 8 clei* undefined
+1/1/1/1 1/1/1/1/23 ALCL:B212C776 up up -25 8 0 8 Novo Novo undefined
+1/1/1/1 1/1/1/1/24 ALCL:B3A3A8A6 up up -21 6 0 8 paul* undefined
+1/1/1/1 1/1/1/1/25 ALCL:FBD69444 up down invalid invalid Novo Novo undefined
+1/1/1/1 1/1/1/1/26 ALCL:B3A39478 up up -22 2 0 7 Novo Novo undefined
+1/1/1/1 1/1/1/1/27 ALCL:B3683DC9 up up -21 1 0 5 Novo Novo undefined
+1/1/1/1 1/1/1/1/28 ALCL:F86C18CF up down invalid invalid paul* undefined
+1/1/1/1 1/1/1/1/29 ALCL:F86E0AE3 up up -21 6 0 9 Novo Novo undefined
+1/1/1/1 1/1/1/1/30 ALCL:FBD2B07D up up -24 5 0 6 Novo Novo undefined
+1/1/1/1 1/1/1/1/31 ALCL:B2115E38 up up -23 7 0 5 Novo Novo undefined
+1/1/1/1 1/1/1/1/32 ALCL:B36C68D6 up up -25 0 0 4 deni* undefined
+1/1/1/1 1/1/1/1/33 ALCL:B367EA77 up up -21 5 0 5 Novo Novo undefined
+1/1/1/1 1/1/1/1/34 ALCL:F84F8CB4 up up -21 3 0 5 Novo Novo undefined
+1/1/1/1 1/1/1/1/35 ALCL:B36FC075 up up -24 6 0 4 Novo Novo undefined
+1/1/1/1 1/1/1/1/36 ALCL:F87B7EDC up up -22 1 0 8 Novo Novo undefined
+1/1/1/1 1/1/1/1/37 ALCL:B365716A up up -22 2 0 9 selm* MARC* undefined
+1/1/1/1 1/1/1/1/38 ALCL:B36EFE4F up up -21 6 0 4 juni* juni* undefined
+1/1/1/1 1/1/1/1/39 ALCL:F8573732 up down invalid invalid ramo* undefined
+1/1/1/1 1/1/1/1/40 ALCL:B3A90F0C up up -21 6 0 7 Novo Novo undefined
+1/1/1/1 1/1/1/1/41 ALCL:FBD88C8F up up -20 7 0 4 Novo Novo undefined
+1/1/1/1 1/1/1/1/42 ALCL:B2EA3E19 up down invalid invalid jose* undefined
+1/1/1/1 1/1/1/1/43 ALCL:F84DB656 up up -21 2 0 4 regi* undefined
+1/1/1/1 1/1/1/1/44 ALCL:B2EA119F up up -21 1 0 4 Novo Novo undefined
+1/1/1/1 1/1/1/1/45 ALCL:B36EDD8B up up -25 2 0 6 Novo Novo undefined
+1/1/1/1 1/1/1/1/46 ALCL:B36820F5 up down invalid invalid Novo Novo undefined
+1/1/1/1 1/1/1/1/47 ALCL:B365F49B up up -22 0 0 4 olga* undefined
+1/1/1/1 1/1/1/1/48 ALCL:B30EB40E up down invalid invalid Novo Novo undefined
+1/1/1/1 1/1/1/1/49 ALCL:FBCEB157 up down invalid invalid Novo Novo undefined
+1/1/1/1 1/1/1/1/50 ALCL:F84DAE8F up up -24 2 0 6 jacq* ALEX* undefined
+1/1/1/1 1/1/1/1/51 ALCL:B3A93F11 up up -21 6 0 4 Novo Novo undefined
+1/1/1/1 1/1/1/1/52 ALCL:F85BC125 up up -21 8 0 7 Novo Novo undefined
+1/1/1/1 1/1/1/1/53 ALCL:F85D45FA up down invalid invalid Novo Novo undefined
+1/1/1/1 1/1/1/1/54 ALCL:B367C059 up up -26 3 0 5 Novo Novo undefined
+1/1/1/1 1/1/1/1/55 ALCL:FBCAFB2B up down invalid invalid Novo Novo undefined
+1/1/1/1 1/1/1/1/56 HWTC:2EC4FB9F up up -21 8 0 7 Novo Novo undefined
+1/1/1/1 1/1/1/1/57 HWTC:B97B1E9E up up -22 2 0 9 Novo Novo undefined
+1/1/1/1 1/1/1/1/58 HWTC:15F1A59F up up -24 8 0 6 Novo Novo undefined
+1/1/1/1 1/1/1/1/59 HWTC:B958829E up up -21 2 0 7 Novo Novo undefined
+1/1/1/1 1/1/1/1/60 ALCL:B36EDD0B up down invalid invalid undefined
+1/1/1/1 1/1/1/1/61 ALCL:F84D9E07 up up -24 6 0 7 juli* undefined
+1/1/1/1 1/1/1/1/62 ALCL:B36799A5 up down invalid invalid juli* undefined
+1/1/1/1 1/1/1/1/63 ALCL:F871396C up up -24 8 0 6 cari* undefined
+1/1/1/1 1/1/1/1/64 ALCL:B212A8AB up down invalid invalid cris* undefined
+1/1/1/1 1/1/1/1/65 ALCL:FBD31C5F up up -22 4 0 8 undefined
+1/1/1/1 1/1/1/1/66 ALCL:FBFB0C84 up up -21 3 1 0 cybe* CYBE* undefined
+1/1/1/1 1/1/1/1/67 ALCL:FBD22F66 up up -21 9 0 5 deni* undefined
+1/1/1/1 1/1/1/1/68 ALCL:B36C9B04 up up -24 6 0 6 vito* undefined
+1/1/1/1 1/1/1/1/69 ALCL:B2E9581B up up -22 2 0 5 eric* undefined
+1/1/1/1 1/1/1/1/70 ALCL:B3AA1024 up down invalid invalid magn* undefined
+1/1/1/1 1/1/1/1/71 ALCL:F84DA971 up down invalid invalid bele* undefined
+1/1/1/1 1/1/1/1/72 ALCL:B3AA4CAF up down invalid invalid nath* _ undefined
+1/1/1/1 1/1/1/1/73 ALCL:B212D1A9 up down invalid invalid tham* undefined
+1/1/1/1 1/1/1/1/74 ALCL:B2F0D1ED up up -22 0 0 8 andr* undefined
+1/1/1/1 1/1/1/1/75 ALCL:B36FB1C4 up up -22 1 0 9 dani* RESI* undefined
+1/1/1/1 1/1/1/1/76 ALCL:FBD92DB3 up down invalid invalid jess* Jess* undefined
+1/1/1/1 1/1/1/1/78 ALCL:FBCEC984 up down invalid invalid euri* TEOD* undefined
+1/1/1/1 1/1/1/1/79 ALCL:B3658236 up up -21 6 0 4 Dani* undefined
+1/1/1/1 1/1/1/1/80 ALCL:FBD6A44B up up -21 0 0 8 Adri* SOUZ* undefined
+1/1/1/1 1/1/1/1/81 ALCL:B3695F37 up down invalid invalid rosa* ROSA* undefined
+1/1/1/1 1/1/1/1/82 ALCL:F85EC071 up up -29 5 0 6 mari* MARI* undefined
+1/1/1/1 1/1/1/1/83 ALCL:B36EC0B2 up up -21 8 0 7 leti* GABR* undefined
+1/1/1/1 1/1/1/1/84 ALCL:F83BCF61 up up -21 6 0 7 cami* Jesu* undefined
+1/1/1/1 1/1/1/1/85 ALCL:FBDAE3D8 up up -21 0 0 5 soni* SONI* undefined
+1/1/1/1 1/1/1/1/86 ALCL:FBCE95E7 up up -20 6 0 5 undefined
+1/1/1/1 1/1/1/1/87 ALCL:FBF1D4CE up up -22 7 0 7 vale* SANT* undefined
+1/1/1/1 1/1/1/1/88 ALCL:FBEDDA25 up up -25 6 0 4 vani* VIRU* undefined
+1/1/1/1 1/1/1/1/89 ALCL:FBD322FA up up -22 0 0 4 dono* undefined
+1/1/1/1 1/1/1/1/90 ALCL:B2117266 up up -23 7 0 4 clau* VITO* undefined
+1/1/1/1 1/1/1/1/91 ALCL:FBD8A871 up up -22 0 0 4 andr* undefined
+1/1/1/1 1/1/1/1/92 ALCL:FBF23443 up up -21 7 1 0 cleb* ISAQ* undefined
+1/1/1/1 1/1/1/1/93 ALCL:FBD9689C up down invalid invalid paul* HORA* undefined
+1/1/1/1 1/1/1/1/97 ALCL:B3A39E76 up up -22 4 0 8 joao* LILI* undefined
+---------------------------------------------------------------------------------------------------------
+pon count : 93
+=========================================================================================================
+typ:isadmin>#

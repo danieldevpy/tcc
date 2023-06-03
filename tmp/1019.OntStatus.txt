@@ -1,0 +1,25 @@
+show equipment ont status pon 1/1/1/1 
+=========================================================================================================
+pon table
+=========================================================================================================
+ | | |admin |oper |olt-rx-sig |ont-olt | | | 
+pon |ont |sernum |status |status |level(dbm) |distance(km) |desc1|desc2|hostname 
+----------+--------------+-------------+--------+--------+-----------+-------------+-----+-----+---------
+1/1/1/1 1/1/1/1/1 ALCL:B2EA0E40 up up -31 5 2 4 Vivi* undefined
+1/1/1/1 1/1/1/1/2 ALCL:B212B119 up up -24 7 2 7 mari* Pabl* undefined
+1/1/1/1 1/1/1/1/3 ALCL:B2F0E700 up up -25 6 2 3 mari* Vanu* undefined
+1/1/1/1 1/1/1/1/4 ALCL:F87B7BEE up down invalid invalid feli* undefined
+1/1/1/1 1/1/1/1/5 ALCL:F85E97F1 up down invalid invalid avjo* ngel* undefined
+1/1/1/1 1/1/1/1/6 ALCL:B2EA27E5 up up -29 4 2 4 avjo* avjo* undefined
+1/1/1/1 1/1/1/1/7 ALCL:B35FF4DD up up -29 8 2 4 cand* Elen* undefined
+1/1/1/1 1/1/1/1/8 ALCL:FBE8CDB4 up up -27 3 2 7 marc* Luzi* undefined
+1/1/1/1 1/1/1/1/9 ALCL:B2FFB3C4 up up -23 8 2 5 mors* Rosa* undefined
+1/1/1/1 1/1/1/1/10 ALCL:B3679902 up up -30 8 2 8 wils* Luis* undefined
+---------------------------------------------------------------------------------------------------------
+pon count : 10
+=========================================================================================================
+
+70/01/21 20:51:10 major alarm occurred for ont 1/1/2/6/3 (service affecting) : Remote Defect Indication from ONT
+70/01/21 20:51:10 major alarm occurred for ip-addr 172 16 16 1 : Successful Management login, TimeStamp : 21/01/70 20:50:59 , Username : isadmin , Type : CLI
+
+typ:isadmin>#

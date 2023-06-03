@@ -1,0 +1,7 @@
+show interface gpon discovered-onus 
+
+ Chassis Slot Port Serial Number
+ --------------------- -------------
+ 1/1/12 ALCLB36946E4 
+OLT-SJM# 
+OLT-SJM#

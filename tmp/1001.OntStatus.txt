@@ -1,0 +1,78 @@
+show equipment ont status pon 1/1/1/1 
+=========================================================================================================
+pon table
+=========================================================================================================
+ | | |admin |oper |olt-rx-sig |ont-olt | | | 
+pon |ont |sernum |status |status |level(dbm) |distance(km) |desc1|desc2|hostname 
+----------+--------------+-------------+--------+--------+-----------+-------------+-----+-----+---------
+1/1/1/1 1/1/1/1/1 FHTT:091C3A78 up up -30 8 0 3 ilha* ilha undefined
+1/1/1/1 1/1/1/1/2 ALCL:FC03E710 up up -25 9 0 4 atos* Atos* undefined
+1/1/1/1 1/1/1/1/3 ALCL:B3610295 up up -26 4 0 5 marc* marc* undefined
+1/1/1/1 1/1/1/1/4 ALCL:FC085494 up up -26 3 0 4 cosm* cosm* undefined
+1/1/1/1 1/1/1/1/5 ALCL:B3516867 up up -24 7 0 5 eriv* eriv* undefined
+1/1/1/1 1/1/1/1/6 ALCL:FBFAE15C up up -21 9 0 6 marc* Marc* undefined
+1/1/1/1 1/1/1/1/7 ALCL:FC06E700 up up -31 7 0 4 yasm* yasm* undefined
+1/1/1/1 1/1/1/1/8 ALCL:FBDD9DEA up down invalid invalid guil* guil* undefined
+1/1/1/1 1/1/1/1/9 FHTT:032B4A9F up down invalid invalid bomb* ilha undefined
+1/1/1/1 1/1/1/1/10 ALCL:FBDF6CFA up down invalid invalid aman* aman* undefined
+1/1/1/1 1/1/1/1/11 ALCL:B36D026F up up -26 5 0 4 raia* Raia* undefined
+1/1/1/1 1/1/1/1/12 ALCL:B30EC3EC up up -24 6 0 6 fran* fran* undefined
+1/1/1/1 1/1/1/1/13 ALCL:B36D025E up down invalid invalid marc* marc* undefined
+1/1/1/1 1/1/1/1/14 ALCL:B3548832 up down invalid invalid jose* jose* undefined
+1/1/1/1 1/1/1/1/15 ALCL:FBCB30AA up down invalid invalid crem* crem* undefined
+1/1/1/1 1/1/1/1/16 ALCL:B367CD04 up down invalid invalid alex* alex* undefined
+1/1/1/1 1/1/1/1/17 ALCL:FBE979D0 up up -25 2 0 4 carl* carl* undefined
+1/1/1/1 1/1/1/1/18 ALCL:FBD90A61 up up -23 7 0 6 isab* Isab* undefined
+1/1/1/1 1/1/1/1/19 ALCL:FBCEC3D6 up down invalid invalid rosi* rosi* undefined
+1/1/1/1 1/1/1/1/20 ALCL:FBD6AF49 up up -31 1 0 7 lind* lind* undefined
+1/1/1/1 1/1/1/1/21 ALCL:FBCBDE4B up up -25 8 0 4 adei* adei* undefined
+1/1/1/1 1/1/1/1/22 ALCL:B212B6B3 up up -26 5 0 5 brun* brun* undefined
+1/1/1/1 1/1/1/1/23 ALCL:F8745F36 up down invalid invalid juni* lour* undefined
+1/1/1/1 1/1/1/1/24 ALCL:FBCE6789 up down invalid invalid valm* valm* undefined
+1/1/1/1 1/1/1/1/25 ALCL:B36CA1D6 up down invalid invalid luci* luci* undefined
+1/1/1/1 1/1/1/1/26 ALCL:B36CD744 up down invalid invalid brun* brun* undefined
+1/1/1/1 1/1/1/1/27 ALCL:B351845D up up -24 4 0 5 maiq* maiq* undefined
+1/1/1/1 1/1/1/1/28 ALCL:FBEDD7BA up up -24 6 0 5 thia* thia* undefined
+1/1/1/1 1/1/1/1/29 ALCL:B35F44B8 up down invalid invalid dine* Dine* undefined
+1/1/1/1 1/1/1/1/30 ALCL:B36C952C up down invalid invalid well* well* undefined
+1/1/1/1 1/1/1/1/31 ALCL:B212CCAB up down invalid invalid math* math* undefined
+1/1/1/1 1/1/1/1/32 ALCL:B2F0CABF up down invalid invalid yuri* yuri* undefined
+1/1/1/1 1/1/1/1/33 ALCL:F84DB8CC up up -28 0 0 4 evan* evan* undefined
+1/1/1/1 1/1/1/1/34 ALCL:FBD62D72 up up -26 1 0 6 step* step* undefined
+1/1/1/1 1/1/1/1/35 ALCL:FBF2C7AD up up -24 3 0 6 elia* elia* undefined
+1/1/1/1 1/1/1/1/36 ALCL:B3A3A46F up down invalid invalid tani* tani* undefined
+1/1/1/1 1/1/1/1/37 ALCL:FBD6A53D up up -24 4 0 5 paul* paul* undefined
+1/1/1/1 1/1/1/1/38 ALCL:FBF2AD13 up up -25 2 0 7 leon* leon* undefined
+1/1/1/1 1/1/1/1/39 ALCL:FBD69CD6 up down invalid invalid edua* edua* undefined
+1/1/1/1 1/1/1/1/40 ALCL:FBCEA000 up up -28 9 0 6 juli* juli* undefined
+1/1/1/1 1/1/1/1/41 ALCL:FBCF7E37 up down invalid invalid leon* leon* undefined
+1/1/1/1 1/1/1/1/42 ALCL:FBCF579E up up -24 1 0 5 math* math* undefined
+1/1/1/1 1/1/1/1/43 ALCL:FBD699B4 up up -26 1 0 5 vane* vane* undefined
+1/1/1/1 1/1/1/1/44 ALCL:FBDAF2BB up up -24 1 0 5 jeov* jeov* undefined
+1/1/1/1 1/1/1/1/45 ALCL:FBDD6151 up up -24 7 0 5 marc* marc* undefined
+1/1/1/1 1/1/1/1/46 ALCL:FBDBC4E1 up down invalid invalid weli* weli* undefined
+1/1/1/1 1/1/1/1/47 ALCL:FBCF25F3 up up -29 1 0 5 jaqu* jaqu* undefined
+1/1/1/1 1/1/1/1/48 ALCL:B2E9507D up down invalid invalid keyl* keyl* undefined
+1/1/1/1 1/1/1/1/49 ALCL:B3670739 up down invalid invalid marc* marc* undefined
+1/1/1/1 1/1/1/1/50 ALCL:FBF28753 up up -24 0 0 6 gabr* gabr* undefined
+1/1/1/1 1/1/1/1/51 ALCL:FBE44469 up down invalid invalid laur* laur* undefined
+1/1/1/1 1/1/1/1/52 ALCL:FBCBC8B4 up up -26 7 0 6 alin* alin* undefined
+1/1/1/1 1/1/1/1/53 ALCL:FBD870B9 up up -25 1 0 5 ana_* Ana_* undefined
+1/1/1/1 1/1/1/1/54 ALCL:FBDFBC4C up up -25 6 0 6 mile* mile* undefined
+1/1/1/1 1/1/1/1/55 ALCL:FBDC0C19 up down invalid invalid alex* Alex* undefined
+1/1/1/1 1/1/1/1/56 ALCL:FBD92C07 up up -24 1 0 5 luzi* luzi* undefined
+1/1/1/1 1/1/1/1/57 ALCL:B3EE44B6 up down invalid invalid daia* daia* undefined
+1/1/1/1 1/1/1/1/58 ALCL:B3613AB0 up down invalid invalid mari* mari* undefined
+1/1/1/1 1/1/1/1/59 ALCL:B3EDB1B6 up up -24 8 0 5 andr* andr* undefined
+1/1/1/1 1/1/1/1/60 ALCL:FBD71481 up up -24 0 0 7 marc* marc* undefined
+1/1/1/1 1/1/1/1/61 ALCL:F85E8E0B up up -20 3 0 7 wili* wili* undefined
+1/1/1/1 1/1/1/1/62 ALCL:FBCB092D up up -21 8 0 6 lari* lari* undefined
+1/1/1/1 1/1/1/1/63 ALCL:FBF11620 up up -27 0 0 7 vald* vald* undefined
+---------------------------------------------------------------------------------------------------------
+pon count : 63
+=========================================================================================================
+typ:isadmin># 
+
+70/02/21 03:16:00 major alarm occurred for ont 1/1/2/13/18 (service affecting) : Remote Defect Indication from ONT
+
+typ:isadmin>#

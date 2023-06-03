@@ -1,0 +1,11 @@
+show pon unprovisiononu 
+================================================================================
+unprovisiononu table
+================================================================================
+alarmidx gponindexsernum subscriberlocid logicalauthid 
+
+ 203 1/1/1/4 ALCLB309F085 DEFAULT 
+
+unprovisiononu count : 1
+================================================================================
+typ:isadmin#
